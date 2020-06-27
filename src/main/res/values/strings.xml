@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Calendário FGTS</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="cpf">CPF</string>
+    <string name="data_de_nascimento">Data de nascimento</string>
+    <string name="verficar_pagamento">Insira suas informações para verificar a data de pagamento do FGTS</string>
+    <string name="verificar">Verificar</string>
+</resources>
